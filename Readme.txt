@@ -37,12 +37,18 @@ CCAC2026 赛道七：中英文语境下图像隐喻识别和情感分类评测
 
 英文训练数据集共1800条， 链接: https://pan.baidu.com/s/1V4fXDEAaS8zKcIeLlLwHAA?pwd=djnu 提取码: djnu
 
-测试数据集将根据CCAC评测时间随后发布。
+中文测试集，链接: https://pan.baidu.com/s/1TP9PK3QHqbGraP3RSsBoew?pwd=tvc9 提取码: tvc9
+
+英文测试集，链接: https://pan.baidu.com/s/1LQrnIu3E5QsvEbapuMbhgA?pwd=wx4y 提取码: wx4y
+
 
 本评测使用中文数据集下隐喻识别+情感倾向识别+情感强度识别联合任务下的精确率（accuracy），
 以及英文数据集下隐喻识别+情感倾向识别+情感强度识别联合任务下的精确率（accuracy）的平均值作为此评测最终评价标准。
 
 每个数据集下隐喻识别+情感倾向识别+情感强度识别都识别准确即认为是识别正确。
+
+测试集结果模板在此github链接，请各参赛队将测试结果2026年6月15日24点前提交邮箱：范苏苏（17838915961@163.com）
+
 
 
 
@@ -55,7 +61,7 @@ CCAC2026 赛道七：中英文语境下图像隐喻识别和情感分类评测
 
 测试集语料发布	2026年6月5日
 
-结果提交截止	2026年6月中旬
+结果提交截止	2026年6月15日24点前
 
 比赛结果公布	2026年6月下旬
 
@@ -77,6 +83,7 @@ CCAC2026 赛道七：中英文语境下图像隐喻识别和情感分类评测
 张文跃（zwy@sxufe.edu.cn）
 
 范苏苏（17838915961@163.com）
+
 五、报名方式
 
 https://docs.qq.com/form/page/DRVpuekppem9rcFNC#/fill
